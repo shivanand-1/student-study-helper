@@ -1,3 +1,5 @@
 fastapi
 uvicorn
-pydentic
+pydantic
+langchain_groq
+dotenv
