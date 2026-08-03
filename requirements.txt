@@ -3,5 +3,4 @@ uvicorn
 pydantic
 langchain_groq
 dotenv
-os
 langchain_community
